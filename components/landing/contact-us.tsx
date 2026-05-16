@@ -7,7 +7,7 @@ export default function ContactUS() {
         <View style={{ paddingTop: 40, flex: 1 }}>
             <StatusBar/>
             {/* <ActivityIndicator color="red" size="large"/> */}
-            <Text>ContactUS</Text>
+            <Text>Contact to raja</Text>
             <Button title='alert' onPress={() => Alert.alert('Alert Title', 'This is the alert message!' ,[
                 {
                     text:"cancel",
